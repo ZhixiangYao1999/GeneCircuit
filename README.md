@@ -1,2 +1,5 @@
 # GeneCircuit
 This is the Github Repository for the course project in BME574 Gene Circuits
+
+## Abstract
+This report presents the mathematical modeling and analysis of a bi-factor stem cell differentiation system, with a focus on hematopoietic stem cells (HSCs) and the important transcription factors GATA-1 and PU.1. By integrating deep learning, symmetry analysis, and nondimensionalization, we enhanced existing models in order to gain a more comprehensive understanding of the regulatory mechanisms that control stem cell development. Our project entails the simplification of the mathematical model, the generation of a realistic dataset with diverse parameters, and the utilization of machine learning approaches to classify and predict steady states. The outcomes of our project emphasize the efficacy of machine learning in examining intricate biological systems and emphasize the possibility of enhanced predictive modeling in biomedical research.
